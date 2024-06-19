@@ -58,17 +58,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <table>
     <tr>
         <td>
-            <img src=screenshots/screenshot1.png alt=Screenshot 1 width=300>
+            <img src="assets/screenshots/screenshot1.png" alt="Screenshot 1" width="300">
             <p>Screenshot 1 Description</p>
         </td>
         <td>
-            <img src=screenshots/screenshot2.png alt=Screenshot 2 width=300>
+            <img src="assets/screenshots/screenshot2.png" alt="Screenshot 2" width="300">
             <p>Screenshot 2 Description</p>
         </td>
         <td>
-            <img src=screenshots/screenshot3.png alt=Screenshot 3 width=300>
+            <img src="assets/screenshots/screenshot3.png" alt="Screenshot 3" width="300">
             <p>Screenshot 3 Description</p>
         </td>
     </tr>
 </table>
-
