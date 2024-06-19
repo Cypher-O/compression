@@ -18,8 +18,8 @@ This Rust project provides a graphical user interface (GUI) application for comp
 Clone the repository and build the project using Cargo:
 
 ```sh
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Cypher-O/compression.git
+cd compression
 cargo build --release
 ```
 
