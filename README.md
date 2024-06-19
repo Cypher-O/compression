@@ -59,15 +59,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <tr>
         <td>
             <img src="assets/screenshots/screenshot1.png" alt="Screenshot 1" width="300">
-            <p>Screenshot 1 Description</p>
+            <p>App</p>
         </td>
         <td>
             <img src="assets/screenshots/screenshot2.png" alt="Screenshot 2" width="300">
-            <p>Screenshot 2 Description</p>
+            <p>Select source file dialog</p>
         </td>
         <td>
             <img src="assets/screenshots/screenshot3.png" alt="Screenshot 3" width="300">
-            <p>Screenshot 3 Description</p>
+            <p>Select destination file dialog</p>
         </td>
     </tr>
 </table>
